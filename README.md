@@ -51,6 +51,7 @@ bool isPrime(int number)
 		}	
 }
 
+
 void output()
 {
 	int b = 3;
